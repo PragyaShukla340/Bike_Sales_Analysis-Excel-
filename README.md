@@ -37,10 +37,9 @@ The pivot table worksheet summarizes the sales data, allowing you to slice and d
 ### Dashboard
 The dashboard provides an interactive and visual representation of the bike sales data, highlighting key metrics and trends.
 
+
+
 **Pragya Shukla**
 
-Aspiring Data Analyst
-
-[LinkedIn Profile](www.linkedin.com/in/pragyashukla340)
 
 
