@@ -18,11 +18,11 @@ This repository contains an Excel workbook that provides a comprehensive analysi
 
 You can download the Excel workbook using the link below:
 
-[Download the Excel Workbook] (Excel Project Dataset.xlsx)
+[Download the Excel Workbook](Excel Project Dataset.xlsx)
 
 Alternatively, you can view the file online using this link:
 
-[View the Excel Workbook] (https://docs.google.com/spreadsheets/d/13LloM2FjPhrJYKD_SNUi_bX0jl36VAoQ7uTYLZSaqCE/edit?gid=655564038#gid=655564038)
+[View the Excel Workbook](https://docs.google.com/spreadsheets/d/13LloM2FjPhrJYKD_SNUi_bX0jl36VAoQ7uTYLZSaqCE/edit?gid=655564038#gid=655564038)
 ## Contents Overview
 
 ### Original Data
